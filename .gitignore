@@ -1,0 +1,13 @@
+.DS_Store
+/node_modules
+/target
+/.sass-cache
+/src/main/webapp/public/dist
+/src/main/webapp/public/data
+/src/main/webapp/WEB-INF/upload/*
+.settings
+.project
+*.iml
+*.private.properties
+flyway.properties
+/.idea

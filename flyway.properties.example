@@ -1,0 +1,6 @@
+flyway.driver=com.mysql.jdbc.Driver
+flyway.url=jdbc:mysql://localhost:3306/数据库名?createDatabaseIfNotExist=true&useUnicode=true&characterEncoding=utf8
+flyway.user=数据库用户名
+flyway.password=数据库密码
+flyway.locations=classpath:db/migration
+flyway.schemas=数据库名
